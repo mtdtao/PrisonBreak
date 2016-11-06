@@ -1,0 +1,182 @@
+﻿Log file open, 11/06/16 10:25:08
+LogInit:Display: Running engine for game: PrisonBreak
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1025344803) SRandInit(1025344805).
+LogTaskGraph: Started task graph with 4 named threads and 5 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.057630
+LogInit: Version: 4.12.5-3039270+++UE4+Release-4.12
+LogInit: API Version: 2992821
+LogInit: Net Version: 3039270
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 3
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 2
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 6
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 2
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jul  6 2016 09:09:46
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.12
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/gelei/UnReal/Epic Games/4.12/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Using libcurl 7.41.0
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.06-15.25.08:741][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.06-15.25.08:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.06-15.25.08:825][  0]LogInit: Computer: DESKTOP-HL4A7EE
+[2016.11.06-15.25.08:825][  0]LogInit: User: gelei
+[2016.11.06-15.25.08:825][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.11.06-15.25.08:825][  0]LogInit: High frequency timer resolution =2.435880 MHz
+[2016.11.06-15.25.08:826][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.11.06-15.25.08:826][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.06-15.25.08:826][  0]LogMemory: Process Physical Memory: 190.21 MB used, 190.21 MB peak
+[2016.11.06-15.25.08:826][  0]LogMemory: Process Virtual Memory: 195.21 MB used, 195.21 MB peak
+[2016.11.06-15.25.08:826][  0]LogMemory: Physical Memory: 3835.98 MB used, 8094.35 MB total
+[2016.11.06-15.25.08:826][  0]LogMemory: Virtual Memory: 552.69 MB used, 134217728.00 MB total
+[2016.11.06-15.25.09:234][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.06-15.25.10:437][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.06-15.25.10:476][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 640M LE' (Feature Level 11_0)
+[2016.11.06-15.25.10:476][  0]LogD3D11RHI:       1996/0/2047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.06-15.25.10:498][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 640M LE' (Feature Level 11_0)
+[2016.11.06-15.25.10:498][  0]LogD3D11RHI:       1996/0/2047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2016.11.06-15.25.10:502][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.06-15.25.10:502][  0]LogD3D11RHI:       1996/0/2047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.06-15.25.10:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.06-15.25.10:510][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.06-15.25.10:510][  0]LogD3D11RHI:     GPU DeviceId: 0xde9 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.06-15.25.10:510][  0]LogWindows: EnumDisplayDevices:
+[2016.11.06-15.25.10:510][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2016.11.06-15.25.10:510][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2016.11.06-15.25.10:510][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2016.11.06-15.25.10:511][  0]LogWindows:    3. 'NVIDIA GeForce GT 640M LE' (P:0 D:0)
+[2016.11.06-15.25.10:511][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2016.11.06-15.25.10:511][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 640M LE
+[2016.11.06-15.25.10:511][  0]LogD3D11RHI:   Driver Version: 353.62 (internal:10.18.13.5362, unified:353.62)
+[2016.11.06-15.25.10:511][  0]LogD3D11RHI:      Driver Date: 7-22-2015
+[2016.11.06-15.25.10:511][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.06-15.25.10:524][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.06-15.25.10:544][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.06-15.25.10:544][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (C:/Users/gelei/Desktop/PrisonBreak/Intermediate/Shaders/WorkingDirectory/4516/).
+[2016.11.06-15.25.10:544][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gelei/AppData/Local/Temp/UnrealShaderWorkingDir/693CE1B7402FFBC76F6C519F4F00A678/'.
+[2016.11.06-15.25.10:544][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.06-15.25.32:423][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.06-15.25.32:435][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.06-15.25.32:454][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.06-15.25.32:469][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.06-15.25.32:486][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.06-15.25.32:503][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.06-15.25.32:519][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.06-15.25.32:535][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.06-15.25.32:550][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.06-15.25.32:561][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.06-15.25.32:573][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.06-15.25.32:604][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.06-15.25.32:604][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.06-15.25.32:606][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.06-15.25.32:646][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.06-15.25.32:663][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.06-15.25.32:679][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.06-15.25.32:695][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.06-15.25.32:748][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.06-15.25.32:748][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.06-15.25.32:852][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.06-15.25.39:994][  0]LogDerivedDataCache: Loaded boot cache 7.14s 79MB C:/Users/gelei/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.11.06-15.25.39:994][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/gelei/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc
+[2016.11.06-15.25.39:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/gelei/Desktop/PrisonBreak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.06-15.25.39:995][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.06-15.25.39:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/gelei/Desktop/PrisonBreak/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.06-15.25.39:995][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.06-15.25.40:014][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.06-15.25.40:026][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gelei/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.06-15.25.40:297][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.06-15.25.40:297][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.06-15.25.40:514][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.06-15.25.40:514][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.06-15.25.40:514][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.06-15.25.40:912][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2016.11.06-15.25.40:968][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.052238 seconds
+[2016.11.06-15.25.40:976][  0]LogUObjectArray: 28739 objects as part of root set at end of initial load.
+[2016.11.06-15.25.40:976][  0]LogUObjectAllocator: 5855624 out of 0 bytes used by permanent object pool.
+[2016.11.06-15.25.40:976][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.06-15.25.40:983][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.06-15.25.41:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.06-15.25.41:846][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.06-15.26.09:429][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.06-15.26.10:095][  0]SourceControl: Info Source control is disabled
+[2016.11.06-15.26.10:156][  0]SourceControl: Info Source control is disabled
+[2016.11.06-15.26.10:175][  0]SourceControl: Info Source control is disabled
+[2016.11.06-15.26.10:191][  0]SourceControl: Info Source control is disabled
+[2016.11.06-15.26.10:807][  0]LogEngine: Initializing Engine...
+[2016.11.06-15.26.10:809][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.11.06-15.26.10:809][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.11.06-15.26.11:045][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.11.06-15.26.11:054][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.06-15.26.11:078][  0]LogInit: FAudioDevice initialized.
+[2016.11.06-15.26.11:137][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/gelei/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.11.06-15.26.11:153][  0]LogInit: Texture streaming: Enabled
+[2016.11.06-15.26.11:187][  0]LogInit: Transaction tracking system initialized
+[2016.11.06-15.26.11:216][  0]BlueprintLog: New page: Editor Load
+[2016.11.06-15.26.11:606][  0]LocalizationService: Info Localization service is disabled
+[2016.11.06-15.26.12:162][  0]LogConsoleResponse:Display: 
+[2016.11.06-15.26.13:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gelei/Desktop/PrisonBreak/Content/' took 0.01s
+[2016.11.06-15.26.13:356][  0]LogCook:Display: Max memory allowance for cook 8192mb
+[2016.11.06-15.26.13:356][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.06-15.26.14:678][  0]SourceControl: Info Source control is disabled
+[2016.11.06-15.26.14:813][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/gelei/UnReal/Epic Games/4.12/FeaturePacks/StarterContent.upack)
+[2016.11.06-15.26.15:074][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2016.11.06-15.26.15:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2016.11.06-15.26.15:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2016.11.06-15.26.15:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2016.11.06-15.26.15:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2016.11.06-15.26.15:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2016.11.06-15.26.15:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2016.11.06-15.26.15:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2016.11.06-15.26.15:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2016.11.06-15.26.15:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2016.11.06-15.26.15:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2016.11.06-15.26.15:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2016.11.06-15.26.15:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Collapse01.uasset"
+[2016.11.06-15.26.15:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Collapse02.uasset"
+[2016.11.06-15.26.15:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2016.11.06-15.26.16:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Explosion01.uasset"
+[2016.11.06-15.26.16:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Explosion02.uasset"
+[2016.11.06-15.26.16:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2016.11.06-15.26.16:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Fire01.uasset"
+[2016.11.06-15.26.16:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2016.11.06-15.26.16:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2016.11.06-15.26.16:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2016.11.06-15.26.16:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Light01.uasset"
+[2016.11.06-15.26.16:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2016.11.06-15.26.16:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Light02.uasset"
+[2016.11.06-15.26.16:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2016.11.06-15.26.16:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Smoke01.uasset"
+[2016.11.06-15.26.16:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2016.11.06-15.26.16:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2016.11.06-15.26.16:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2016.11.06-15.26.17:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2016.11.06-15.26.17:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2016.11.06-15.26.17:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/gelei/Desktop/PrisonBreak/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2016.11.06-15.26.17:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/
