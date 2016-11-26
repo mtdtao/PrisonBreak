@@ -2125,4 +2125,953 @@ ntdll.dll
 [2016.11.26-19.33.32:929][469]LogFbx: ItemName: Texture, ItemCount : 6
 [2016.11.26-19.33.32:929][469]LogFbx: ItemName: Video, ItemCount : 6
 [2016.11.26-19.33.32:930][469]LogFbx: ItemName: MotionBuilder_System, ItemCount : 29
-[2016.11.26-19.33.32:930][469]LogFbx: ItemName: MotionBuild
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: MotionBuilder_Generic, ItemCount : 3
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: Geometry, ItemCount : 8
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: Pose, ItemCount : 8
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: Deformer, ItemCount : 304
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: AnimationCurveNode, ItemCount : 60
+[2016.11.26-19.33.32:930][469]LogFbx: ItemName: AnimationCurve, ItemCount : 351
+[2016.11.26-19.33.32:937][469]LogFbx: Loading FBX Scene from C:/Users/gelei/Downloads/Exo_Red.fbx
+[2016.11.26-19.33.33:182][469]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.26-19.35.01:015][810]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/gelei/Downloads/Exo_Red.fbx)
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: NodeAttribute, ItemCount : 115
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Model, ItemCount : 123
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Material, ItemCount : 5
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Texture, ItemCount : 6
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Video, ItemCount : 6
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: MotionBuilder_System, ItemCount : 29
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: MotionBuilder_Generic, ItemCount : 3
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Geometry, ItemCount : 8
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Pose, ItemCount : 8
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: Deformer, ItemCount : 304
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: AnimationCurveNode, ItemCount : 60
+[2016.11.26-19.35.01:082][810]LogFbx: ItemName: AnimationCurve, ItemCount : 351
+[2016.11.26-19.35.01:089][810]LogFbx: Loading FBX Scene from C:/Users/gelei/Downloads/Exo_Red.fbx
+[2016.11.26-19.35.01:329][810]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.26-19.35.09:719][810]LogFbx: Loading FBX Scene from C:/Users/gelei/Downloads/Exo_Red.fbx
+[2016.11.26-19.35.09:964][810]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.26-19.35.09:991][810]LogFbx: =================================================
+[2016.11.26-19.35.09:991][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.09:991][810]LogFbx: 	Total Deformer Count -1696990360.
+[2016.11.26-19.35.09:991][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.09:991][810]LogFbx: =================================================
+[2016.11.26-19.35.09:991][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:991][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.09:991][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1353160000.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1353160000.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1353160000.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1696990360.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1696990360.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1353158000.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.09:992][810]LogFbx: 	Total Deformer Count -1336691584.
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.09:992][810]LogFbx: =================================================
+[2016.11.26-19.35.09:992][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:992][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.09:992][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1353167120.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1353167120.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -465458256.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -465455216.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1336691584.
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:993][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.09:993][810]LogFbx: =================================================
+[2016.11.26-19.35.09:993][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.09:993][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -465453536.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -465453536.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -465453536.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -1696997584.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -465453296.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.09:994][810]LogFbx: 	Total Deformer Count -1336691584.
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.09:994][810]LogFbx: =================================================
+[2016.11.26-19.35.09:994][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.09:994][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.09:994][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.09:999][810]LogFbx: Valid bind pose for Pose (skinCluster1) - EXO_Eyes
+[2016.11.26-19.35.10:000][810]LogFbx: Valid bind pose for Pose (skinCluster2) - EXO_Eyes
+[2016.11.26-19.35.10:000][810]LogFbx: Valid bind pose for Pose (skinCluster3) - EXO_Eyes
+[2016.11.26-19.35.10:001][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Eyes : The relative matrices do not match
+[2016.11.26-19.35.10:002][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_EyesSpec : The relative matrices do not match
+[2016.11.26-19.35.10:003][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Caruncula : The relative matrices do not match
+[2016.11.26-19.35.10:004][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_HeadMask : The relative matrices do not match
+[2016.11.26-19.35.10:005][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node Exo_Suit : The relative matrices do not match
+[2016.11.26-19.35.10:006][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Body : The relative matrices do not match
+[2016.11.26-19.35.10:007][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_BrowsLashes : The relative matrices do not match
+[2016.11.26-19.35.10:008][810]LogFbx:Warning: Not valid bind pose for Pose (skinCluster4) - Node EXO_Teeth : The relative matrices do not match
+[2016.11.26-19.35.10:010][810]LogFbx: Valid bind pose for Pose (skinCluster5) - EXO_Eyes
+[2016.11.26-19.35.10:011][810]LogFbx: Valid bind pose for Pose (skinCluster6) - EXO_Eyes
+[2016.11.26-19.35.10:011][810]LogFbx: Valid bind pose for Pose (skinCluster7) - EXO_Eyes
+[2016.11.26-19.35.10:013][810]LogFbx: Valid bind pose for Pose (skinCluster8) - EXO_Eyes
+[2016.11.26-19.35.10:018][810]LogFbx: Triangulating skeletal mesh EXO_Eyes
+[2016.11.26-19.35.10:255][810]LogFbx: Triangulating skeletal mesh EXO_EyesSpec
+[2016.11.26-19.35.10:398][810]LogFbx: Triangulating skeletal mesh EXO_Caruncula
+[2016.11.26-19.35.10:405][810]LogFbx: Triangulating skeletal mesh EXO_HeadMask
+[2016.11.26-19.35.10:596][810]LogFbx: Triangulating skeletal mesh Exo_Suit
+[2016.11.26-19.35.13:129][810]LogFbx: Triangulating skeletal mesh EXO_Body
+[2016.11.26-19.35.14:821][810]LogFbx: Triangulating skeletal mesh EXO_BrowsLashes
+[2016.11.26-19.35.14:828][810]LogFbx: Triangulating skeletal mesh EXO_Teeth
+[2016.11.26-19.35.15:258][810]LogFbx:Warning: Bones digested - 113  Depth of hierarchy - 12
+[2016.11.26-19.35.16:131][810]LogSkeletalMesh: Chunk 0: 804 rigid vertices, 0 soft vertices, 2 active bones
+[2016.11.26-19.35.16:131][810]LogSkeletalMesh: Chunk 1: 544 rigid vertices, 0 soft vertices, 2 active bones
+[2016.11.26-19.35.16:131][810]LogSkeletalMesh: Chunk 2: 3257 rigid vertices, 5136 soft vertices, 98 active bones
+[2016.11.26-19.35.16:132][810]LogSkeletalMesh: Chunk 3: 1536 rigid vertices, 8082 soft vertices, 33 active bones
+[2016.11.26-19.35.16:132][810]LogSkeletalMesh: Chunk 4: 0 rigid vertices, 28 soft vertices, 5 active bones
+[2016.11.26-19.35.16:198][810]LogSkeletalMesh: Section 0: Material=0, Chunk=0, 1520 triangles
+[2016.11.26-19.35.16:198][810]LogSkeletalMesh: Section 1: Material=1, Chunk=1, 920 triangles
+[2016.11.26-19.35.16:198][810]LogSkeletalMesh: Section 2: Material=2, Chunk=2, 13784 triangles
+[2016.11.26-19.35.16:198][810]LogSkeletalMesh: Section 3: Material=3, Chunk=3, 15444 triangles
+[2016.11.26-19.35.16:198][810]LogSkeletalMesh: Section 4: Material=4, Chunk=4, 24 triangles
+[2016.11.26-19.35.16:304][810]LogAnimation:Warning: Hips : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.20:226][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2016.11.26-19.35.20:234][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2016.11.26-19.35.20:247][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2016.11.26-19.35.20:257][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2016.11.26-19.35.20:291][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2016.11.26-19.35.20:304][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2016.11.26-19.35.20:330][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count -1344329632.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count 439872672.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count 439872672.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count 439872672.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count -1344329632.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count -1344329632.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.20:331][810]LogFbx: =================================================
+[2016.11.26-19.35.20:331][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.20:331][810]LogFbx: 	Total Deformer Count 439871392.
+[2016.11.26-19.35.20:331][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count -1449133824.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count 439870592.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count 439870592.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count 439870592.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.20:332][810]LogFbx: =================================================
+[2016.11.26-19.35.20:332][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.20:332][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:332][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count 439869312.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count -1449133824.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_Eyes] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1]  (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_Eyes (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_Eyes]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_EyesSpec] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count 439868592.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 1 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_EyesSpec (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_EyesSpec]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_Caruncula] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count 439868592.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 2 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_Caruncula (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_Caruncula]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_HeadMask] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count 439868592.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 3 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_HeadMask (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_HeadMask]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [Exo_Suit] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 7 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] Exo_Suit (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [Exo_Suit]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_Body] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count -1344334336.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 4 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_Body (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_Body]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_BrowsLashes] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count 439867312.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 5 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node Attribute Child 1] EXO_BrowsLashes (Type Mesh).
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node END [EXO_BrowsLashes]
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:333][810]LogFbx: Dumping Node START [EXO_Teeth] 
+[2016.11.26-19.35.20:333][810]LogFbx: 	Total Deformer Count -1449133824.
+[2016.11.26-19.35.20:333][810]LogFbx: 		[Node 1] 6 (Type Skin).
+[2016.11.26-19.35.20:333][810]LogFbx: =================================================
+[2016.11.26-19.35.20:334][810]LogFbx: 	Attribute () Type (4).
+[2016.11.26-19.35.20:334][810]LogFbx: 		[Node Attribute Child 1] EXO_Teeth (Type Mesh).
+[2016.11.26-19.35.20:334][810]LogFbx: Dumping Node END [EXO_Teeth]
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(0) Hips
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(1) Spine
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(2) Spine1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(3) Spine2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(4) Neck
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(5) Neck1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(6) Head
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(7) HeadTop_End
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(8) L_Ear
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(9) Jaw
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(10) TongueBack
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(11) TongueMid
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(12) TongueTip
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(13) Chin
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(14) LowerChin
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(15) L_Temple
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(16) L_IOuterBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(17) L_MidBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(18) L_InnerBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(19) L_Eye
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(20) L_EyelidLower
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(21) L_EyelidUpper
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(22) L_InnerCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(23) L_LowerCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(24) L_LipCorner
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(25) L_LipCornerLowTweak
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(26) L_LipCornerUpTweak
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(27) L_LipLower
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(28) L_LipUpper
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(29) LipMidLower
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(30) LipMidUpper
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(31) L_CheekFold
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(32) L_Nostril
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(33) Scalp
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(34) L_OuterCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(35) R_LipLower
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(36) RightNostril
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(37) R_CheekFold
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(38) R_LowerCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(39) R_gLipCorner
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(40) R_gLipCornerLowTweak
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(41) R_gLipCornerUpTweak
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(42) R_LipUpper
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(43) R_OuterCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(44) MidBrows
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(45) R_InnerBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(46) R_MidBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(47) R_IOuterBrow
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(48) R_Eye
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(49) R_EyelidLower
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(50) R_EyelidUpper
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(51) R_Temple
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(52) R_Ear
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(53) R_InnerCheek
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(54) Throat
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(55) LeftShoulder
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(56) LeftArm
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(57) LeftForeArm
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(58) LeftHand
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(59) LeftHandThumb1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(60) LeftHandThumb2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(61) LeftHandThumb3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(62) LeftHandThumb4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(63) LeftHandMiddle1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(64) LeftHandMiddle2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(65) LeftHandMiddle3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(66) LeftHandMiddle4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(67) LeftHandIndex1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(68) LeftHandIndex2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(69) LeftHandIndex3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(70) LeftHandIndex4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(71) LeftHandRing1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(72) LeftHandRing2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(73) LeftHandRing3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(74) LeftHandRing4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(75) LeftHandPinky1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(76) LeftHandPinky2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(77) LeftHandPinky3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(78) LeftHandPinky4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(79) RightShoulder
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(80) RightArm
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(81) RightForeArm
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(82) RightHand
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(83) RightHandThumb1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(84) RightHandThumb2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(85) RightHandThumb3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(86) RightHandThumb4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(87) RightHandIndex1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(88) RightHandIndex2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(89) RightHandIndex3
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(90) RightHandIndex4
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(91) RightHandMiddle1
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(92) RightHandMiddle2
+[2016.11.26-19.35.20:336][810]LogFbx: SortedLinks :(93) RightHandMiddle3
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(94) RightHandMiddle4
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(95) RightHandRing1
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(96) RightHandRing2
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(97) RightHandRing3
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(98) RightHandRing4
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(99) RightHandPinky1
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(100) RightHandPinky2
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(101) RightHandPinky3
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(102) RightHandPinky4
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(103) LeftUpLeg
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(104) LeftLeg
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(105) LeftFoot
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(106) LeftToeBase
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(107) LeftFootToeBase_End
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(108) RightUpLeg
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(109) RightLeg
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(110) RightFoot
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(111) RightToeBase
+[2016.11.26-19.35.20:337][810]LogFbx: SortedLinks :(112) RightFootToeBase_End
+[2016.11.26-19.35.20:337][810]LogFbx: Parsing AnimStack mixamo.com
+[2016.11.26-19.35.20:856][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Exo_Red_Anim.Exo_Red_Anim
+[2016.11.26-19.35.20:876][810]FBXImport:Warning: 警告 警告： 在该FBX场景中没有找到平滑组信息。请确保在导入该文件之前，在FBX导入器插件中启用'Export Smoothing Groups（导出平滑组）'选项。即时对于不支持平滑组的工具，FBX在导出时也会生成适当的平滑数据，以便在导入时可以推断出正确的顶点法线。 
+[2016.11.26-19.35.20:876][810]FBXImport:Warning: 警告 绑定姿势中缺失以下骨骼：
+HeadTop_End  
+LeftHandThumb4  
+LeftHandMiddle4  
+LeftHandIndex4  
+LeftHandRing4  
+LeftHandPinky4  
+RightHandThumb4  
+RightHandIndex4  
+RightHandMiddle4  
+RightHandRing4  
+RightHandPinky4  
+LeftFootToeBase_End  
+RightFootToeBase_End  
+
+这个可能发生在没有顶点加权的骨骼上。如果骨骼在导入后朝向不正确，
+那么请重新设置"使用T0作为参考姿势"选项或者将它们添加到绑定姿势中并重新导入该骨架网格物体。 
+[2016.11.26-19.35.22:539][811]LoadErrors:Error: 错误 该骨架  UE4_Mannequin_Skeleton  is missing bones that SkeletalMesh  SK_Mannequin   needs. They will be added now. Please save the Skeleton!
+[2016.11.26-19.35.22:542][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:542][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:543][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:543][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:544][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:544][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:545][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:546][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:546][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:547][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:548][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:548][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:549][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:549][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:550][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:551][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:552][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:552][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:553][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:553][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:554][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:555][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:555][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:555][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:556][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:556][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:557][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:558][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:558][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:559][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:559][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:560][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:560][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:561][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:561][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:562][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:562][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:563][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:563][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:564][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:565][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:565][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:566][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:566][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:567][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:568][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:568][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:569][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:570][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:570][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:571][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:572][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:572][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:573][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:573][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:574][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:574][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:575][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:575][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:576][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:576][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:577][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:577][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:578][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:578][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:579][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.35.22:579][811]LogAnimation:Warning: root : Missing joint on skeleton.  Make sure to assign to the skeleeton.
+[2016.11.26-19.36.00:220][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.00:220][305]BlueprintLog: New page: 运行前自动重新编译
+[2016.11.26-19.36.00:222][305]LogPlayLevel: [PlayLevel] Compiling RunCharacter before play...
+[2016.11.26-19.36.00:985][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 765 ms (7 blueprints)
+[2016.11.26-19.36.00:986][305]LogPlayLevel: [PlayLevel] Compiling BP_Blocker before play...
+[2016.11.26-19.36.01:089][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 868 ms (7 blueprints)
+[2016.11.26-19.36.01:090][305]LogPlayLevel: [PlayLevel] Compiling BP_Item before play...
+[2016.11.26-19.36.01:199][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 978 ms (7 blueprints)
+[2016.11.26-19.36.01:201][305]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile before play...
+[2016.11.26-19.36.01:276][305]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TurnZone' in BlueprintGeneratedClass 'REINST_BP_FloorTile_LeftCorner_C_369' (it may have been removed)
+[2016.11.26-19.36.01:364][305]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'Ramp' in BlueprintGeneratedClass 'REINST_BP_FloorTile_RampDown_C_371' (it may have been removed)
+[2016.11.26-19.36.01:413][305]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'Ramp' in BlueprintGeneratedClass 'REINST_BP_FloorTile_Rampup_C_373' (it may have been removed)
+[2016.11.26-19.36.01:464][305]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'TurnZone' in BlueprintGeneratedClass 'REINST_BP_FloorTile_RightCorner_C_375' (it may have been removed)
+[2016.11.26-19.36.01:904][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 1683 ms (10 blueprints)
+[2016.11.26-19.36.01:905][305]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile_LeftCorner before play...
+[2016.11.26-19.36.01:993][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 1772 ms (10 blueprints)
+[2016.11.26-19.36.01:993][305]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile_RightCorner before play...
+[2016.11.26-19.36.02:082][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 1861 ms (10 blueprints)
+[2016.11.26-19.36.02:082][305]LogPlayLevel: [PlayLevel] Compiling RunHud before play...
+[2016.11.26-19.36.02:175][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 1954 ms (10 blueprints)
+[2016.11.26-19.36.02:176][305]LogPlayLevel: [PlayLevel] Compiling RunGameNode before play...
+[2016.11.26-19.36.02:289][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 2068 ms (10 blueprints)
+[2016.11.26-19.36.02:289][305]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile_RampDown before play...
+[2016.11.26-19.36.02:373][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 2153 ms (10 blueprints)
+[2016.11.26-19.36.02:374][305]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile_Rampup before play...
+[2016.11.26-19.36.02:458][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 2238 ms (10 blueprints)
+[2016.11.26-19.36.02:507][305]PIE: New page: PIE会话: NewMap (2016年11月27日 上午11:36:02)
+[2016.11.26-19.36.02:507][305]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap
+[2016.11.26-19.36.02:510][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002648s)
+[2016.11.26-19.36.02:511][305]LogAIModule: Creating AISystem for world NewMap
+[2016.11.26-19.36.02:511][305]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2016.11.26-19.36.02:511][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Blueprints/NewMap.NewMap to /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap.NewMap (0.004011s)
+[2016.11.26-19.36.02:558][305]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.26-19.36.02:567][305]LogInit: FAudioDevice initialized.
+[2016.11.26-19.36.02:630][305]LogWorld: Game class is 'RunGameNode_C'
+[2016.11.26-19.36.02:632][305]LogWorld: Bringing World /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2016.11.27-03.36.02
+[2016.11.26-19.36.02:632][305]LogWorld: Bringing up level for play took: 0.002212
+[2016.11.26-19.36.02:660][305]PIE: 信息 /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap的‘在编辑器中播放’的起始时间3.093
+[2016.11.26-19.36.02:661][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.02:676][306]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073853 > MaxSimulationTimeStep (0.050) for 'RunCharacter_C_0', movement 'Walking'
+[2016.11.26-19.36.04:200][397]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.04:242][397]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.09:792][653]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.26-19.36.27:426][323]BlueprintLog: New page: 编译RunCharacter
+[2016.11.26-19.36.27:749][323]BlueprintEditorCompileResults: 信息 [7886.56] Compile of RunCharacter successful! [in 323 ms] (/Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter)
+[2016.11.26-19.36.29:115][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunCharacter" FILE="C:/Users/gelei/Desktop/PrisonBreak/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset" SILENT=true
+[2016.11.26-19.36.29:234][381]LogSavePackage: Save=102.98ms
+[2016.11.26-19.36.29:234][381]LogSavePackage: Moving 'C:/Users/gelei/Desktop/PrisonBreak/Saved/RunCharacter58DB893445A719629FE643AF2B36FF47.tmp' to 'C:/Users/gelei/Desktop/PrisonBreak/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2016.11.26-19.36.29:237][381]LogSavePackage:Display: Finished SavePackage C:/Users/gelei/Desktop/PrisonBreak/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2016.11.26-19.36.34:212][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.34:212][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.26-19.36.34:212][587]PIE: New page: PIE会话: NewMap (2016年11月27日 上午11:36:34)
+[2016.11.26-19.36.34:212][587]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap
+[2016.11.26-19.36.34:216][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003445s)
+[2016.11.26-19.36.34:217][587]LogAIModule: Creating AISystem for world NewMap
+[2016.11.26-19.36.34:217][587]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2016.11.26-19.36.34:217][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Blueprints/NewMap.NewMap to /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap.NewMap (0.005024s)
+[2016.11.26-19.36.34:275][587]LogInit: XAudio2 using '扬声器 (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.26-19.36.34:283][587]LogInit: FAudioDevice initialized.
+[2016.11.26-19.36.34:344][587]LogWorld: Game class is 'RunGameNode_C'
+[2016.11.26-19.36.34:346][587]LogWorld: Bringing World /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2016.11.27-03.36.34
+[2016.11.26-19.36.34:347][587]LogWorld: Bringing up level for play took: 0.002248
+[2016.11.26-19.36.34:377][587]PIE: 信息 /Game/ThirdPersonBP/Blueprints/UEDPIE_0_NewMap的‘在编辑器中播放’的起始时间0.809
+[2016.11.26-19.36.34:378][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.40:264][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.40:309][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Blueprints/NewMap.NewMap:PersistentLevel.NewMap'
+[2016.11.26-19.36.52:254][277]Cmd: QUIT_EDITOR
+[2016.11.26-19.36.53:379][277]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (微软拼音).
+[2016.11.26-19.36.53:417][277]LogExit: Preparing to exit.
+[2016.11.26-19.36.53:985][277]LogExit: Editor shut down
+[2016.11.26-19.36.53:987][277]LogExit: Transaction tracking system shut down
+[2016.11.26-19.36.54:341][277]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.26-19.36.54:342][277]LogExit: Object subsystem successfully closed.
+[2016.11.26-19.36.54:381][277]LogD3D11RHI: Shutdown
+[2016.11.26-19.36.54:382][277]LogD3D11RHI: CleanupD3DDevice
+[2016.11.26-19.36.54:543][277]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.26-19.36.54:562][277]LogModuleManager: Shutting down and abandoning module PortalProxies (217)
+[2016.11.26-19.36.54:562][277]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (216)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module BlueprintGraph (215)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (214)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (213)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module CrashTracker (212)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module SceneOutliner (211)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module WidgetCarousel (210)
+[2016.11.26-19.36.54:577][277]LogModuleManager: Shutting down and abandoning module AddContentDialog (209)
+[2016.11.26-19.36.54:584][277]LogModuleManager: Shutting down and abandoning module GameplayTags (208)
+[2016.11.26-19.36.54:584][277]LogModuleManager: Shutting down and abandoning module EditorWidgets (207)
+[2016.11.26-19.36.54:584][277]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module StatsViewer (205)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module FoliageEdit (204)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module LandscapeEditor (203)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (202)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module ActorPickerMode (201)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module GeometryMode (200)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module TextureAlignMode (199)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module BspMode (198)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module HardwareSurvey (197)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (196)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module SequenceRecorder (195)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (193)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module PlacementMode (192)
+[2016.11.26-19.36.54:585][277]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (191)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module CharacterAI (190)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module SmartSnapping (189)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module SessionServices (188)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module ViewportSnapping (187)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module LogVisualizer (186)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (185)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module IntroTutorials (184)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (183)
+[2016.11.26-19.36.54:586][277]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (182)
+[2016.11.26-19.36.54:587][277]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (181)
+[2016.11.26-19.36.54:587][277]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (180)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (179)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (178)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (177)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module MergeActors (176)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module SizeMap (175)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module TreeMap (174)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module ReferenceViewer (173)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module LocalizationService (172)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (171)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module HardwareTargeting (170)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (169)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module UndoHistory (168)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module UserFeedback (167)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module XmlParser (166)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module Blutility (165)
+[2016.11.26-19.36.54:674][277]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (164)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (163)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module InputBindingEditor (162)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (161)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module SettingsEditor (160)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module ProjectLauncher (159)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module SessionFrontend (158)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module ProfilerClient (157)
+[2016.11.26-19.36.54:675][277]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (156)
+[2016.11.26-19.36.54:676][277]LogModuleManager: Shutting down and abandoning module DeviceManager (155)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module AutomationController (154)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module AutomationWindow (153)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module Layers (152)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (151)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module DetailCustomizations (150)
+[2016.11.26-19.36.54:718][277]LogModuleManager: Shutting down and abandoning module PackagesDialog (149)
+[2016.11.26-19.36.54:719][277]LogModuleManager: Shutting down and abandoning module Persona (148)
+[2016.11.26-19.36.54:719][277]LogModuleManager: Shutting down and abandoning module Kismet (147)
+[2016.11.26-19.36.54:719][277]LogModuleManager: Shutting down and abandoning module GraphEditor (146)
+[2016.11.26-19.36.54:719][277]LogModuleManager: Shutting down and abandoning module ClassViewer (145)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module Toolbox (144)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module ModuleUI (143)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module MovieSceneTools (142)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module OutputLog (141)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module GammaUI (140)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module Documentation (139)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (138)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module AnalyticsET (137)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module Analytics (136)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module PortalServices (135)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module PortalRpc (134)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module MessagingRpc (133)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module GameplayDebugger (132)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module AIModule (130)
+[2016.11.26-19.36.54:721][277]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2016.11.26-19.36.54:839][277]LogModuleManager: Shutting down and abandoning module TaskGraph (128)
+[2016.11.26-19.36.54:839][277]LogModuleManager: Shutting down and abandoning module SlateRemote (127)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SteamVRController (126)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SteamVR (125)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (124)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module OculusLibrary (123)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module OculusInput (122)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (121)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module CableComponent (120)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (119)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (118)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module HTML5Networking (117)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SuperSearch (116)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (115)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (114)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module PluginBrowser (113)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module EpicSurvey (112)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module DesktopPlatform (111)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (110)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module UObjectPlugin (109)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (108)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (107)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module SourceControl (106)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module GitSourceControl (105)
+[2016.11.26-19.36.54:840][277]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (104)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (103)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (102)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module MeshPaint (101)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (100)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.11.26-19.36.54:841][277]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.11.26-19.36.54:843][277]LogModuleManager: Shutting down and abandoning module ContentBrowser (96)
+[2016.11.26-19.36.54:844][277]LogModuleManager: Shutting down and abandoning module Paper2DEditor (95)
+[2016.11.26-19.36.54:844][277]LogModuleManager: Shutting down and abandoning module UdpMessaging (94)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (93)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (91)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module Media (90)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module WmfMedia (89)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (85)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module VREditor (84)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (83)
+[2016.11.26-19.36.54:945][277]LogModuleManager: Shutting down and abandoning module PropertyEditor (82)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (81)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module FunctionalTesting (80)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (79)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module Sequencer (78)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module AssetTools (75)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module UMGEditor (74)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module UMG (73)
+[2016.11.26-19.36.54:946][277]LogModuleManager: Shutting down and abandoning module SlateReflector (72)
+[2016.11.26-19.36.54:947][277]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2016.11.26-19.36.54:947][277]LogModuleManager: Shutting down and abandoning module EditorStyle (70)
+[2016.11.26-19.36.54:951][277]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (69)
+[2016.11.26-19.36.54:952][277]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2016.11.26-19.36.54:952][277]LogModuleManager: Shutting down and abandoning module XAudio2 (67)
+[2016.11.26-19.36.54:952][277]LogModuleManager: Shutting down and abandoning module Networking (65)
+[2016.11.26-19.36.54:952][277]LogModuleManager: Shutting down and abandoning module Core (64)
+[2016.11.26-19.36.54:952][277]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2016.11.26-19.36.54:958][277]LogModuleManager: Shutting down and abandoning module AssetRegistry (62)
+[2016.11.26-19.36.55:126][277]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.11.26-19.36.55:126][277]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.11.26-19.36.55:126][277]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.11.26-19.36.55:126][277]LogModuleManager: Shutting down and abandoning module DerivedDataCache (58)
+[2016.11.26-19.36.55:183][277]LogDerivedDataCache: Shutdown
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (57)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.11.26-19.36.55:183][277]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.11.26-19.36.55:184][277]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.11.26-19.36.58:189][277]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.11.26-19.36.58:189][277]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.11.26-19.36.58:189][277]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.11.26-19.36.58:189][277]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.26-19.36.58:190][277]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.26-19.36.58:190][277]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.26-19.36.58:190][277]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.26-19.36.58:221][277]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.26-19.36.58:222][277]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.26-19.36.58:222][277]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.26-19.36.58:222][277]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.26-19.36.58:225][277]LogExit: Exiting.
+[2016.11.26-19.36.58:257][277]Log file closed, 11/27/16 03:36:58
